@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mcpipokinha.png">
+<SubTexture name="mcpipokinha idle0000" x="0" y="0" width="274" height="776" frameX="-286" frameY="-91" frameWidth="900" frameHeight="900" />
+<SubTexture name="mcpipokinha idle0001" x="560" y="0" width="296" height="745" frameX="-275" frameY="-123" frameWidth="900" frameHeight="900" />
+<SubTexture name="mcpipokinha idle0002" x="560" y="0" width="296" height="745" frameX="-275" frameY="-123" frameWidth="900" frameHeight="900" />
+<SubTexture name="mcpipokinha idle0003" x="560" y="0" width="296" height="745" frameX="-275" frameY="-123" frameWidth="900" frameHeight="900" />
+<SubTexture name="mcpipokinha idle0004" x="274" y="0" width="286" height="763" frameX="-280" frameY="-105" frameWidth="900" frameHeight="900" />
+<SubTexture name="mcpipokinha idle0005" x="0" y="0" width="274" height="776" frameX="-286" frameY="-91" frameWidth="900" frameHeight="900" />
+<SubTexture name="mcpipokinha idle0006" x="0" y="0" width="274" height="776" frameX="-286" frameY="-91" frameWidth="900" frameHeight="900" />
+<SubTexture name="mcpipokinha idle0007" x="0" y="0" width="274" height="776" frameX="-286" frameY="-91" frameWidth="900" frameHeight="900" />
+<SubTexture name="mcpipokinha idle0008" x="0" y="0" width="274" height="776" frameX="-286" frameY="-91" frameWidth="900" frameHeight="900" />
+<SubTexture name="mcpipokinha idle0009" x="0" y="0" width="274" height="776" frameX="-286" frameY="-91" frameWidth="900" frameHeight="900" />
+<SubTexture name="mcpipokinha idle0010" x="0" y="0" width="274" height="776" frameX="-286" frameY="-91" frameWidth="900" frameHeight="900" />
+<SubTexture name="mcpipokinha idle0011" x="0" y="0" width="274" height="776" frameX="-286" frameY="-91" frameWidth="900" frameHeight="900" />
+<SubTexture name="mcpipokinha idle0012" x="0" y="0" width="274" height="776" frameX="-286" frameY="-91" frameWidth="900" frameHeight="900" />
+</TextureAtlas>

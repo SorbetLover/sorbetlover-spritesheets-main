@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="monark.png">
+<SubTexture name="monark idle0000" x="0" y="0" width="324" height="620" frameX="-453" frameY="-443" frameWidth="1225" frameHeight="1079" />
+<SubTexture name="monark idle0001" x="662" y="0" width="342" height="586" frameX="-444" frameY="-478" frameWidth="1225" frameHeight="1079" />
+<SubTexture name="monark idle0002" x="662" y="0" width="342" height="586" frameX="-444" frameY="-478" frameWidth="1225" frameHeight="1079" />
+<SubTexture name="monark idle0003" x="662" y="0" width="342" height="586" frameX="-444" frameY="-478" frameWidth="1225" frameHeight="1079" />
+<SubTexture name="monark idle0004" x="324" y="0" width="338" height="601" frameX="-446" frameY="-463" frameWidth="1225" frameHeight="1079" />
+<SubTexture name="monark idle0005" x="0" y="0" width="324" height="620" frameX="-453" frameY="-443" frameWidth="1225" frameHeight="1079" />
+<SubTexture name="monark idle0006" x="0" y="0" width="324" height="620" frameX="-453" frameY="-443" frameWidth="1225" frameHeight="1079" />
+<SubTexture name="monark idle0007" x="0" y="0" width="324" height="620" frameX="-453" frameY="-443" frameWidth="1225" frameHeight="1079" />
+<SubTexture name="monark idle0008" x="0" y="0" width="324" height="620" frameX="-453" frameY="-443" frameWidth="1225" frameHeight="1079" />
+<SubTexture name="monark idle0009" x="0" y="0" width="324" height="620" frameX="-453" frameY="-443" frameWidth="1225" frameHeight="1079" />
+<SubTexture name="monark idle0010" x="0" y="0" width="324" height="620" frameX="-453" frameY="-443" frameWidth="1225" frameHeight="1079" />
+<SubTexture name="monark idle0011" x="0" y="0" width="324" height="620" frameX="-453" frameY="-443" frameWidth="1225" frameHeight="1079" />
+</TextureAtlas>

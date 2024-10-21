@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ralucacloserv2.png">
+<SubTexture name="idle0000" x="387" y="0" width="585" height="510" frameX="-198" frameY="-398" frameWidth="900" frameHeight="900" />
+<SubTexture name="idle0001" x="0" y="541" width="593" height="501" frameX="-194" frameY="-407" frameWidth="900" frameHeight="900" />
+<SubTexture name="idle0002" x="688" y="1042" width="610" height="481" frameX="-186" frameY="-427" frameWidth="900" frameHeight="900" />
+<SubTexture name="idle0003" x="0" y="541" width="593" height="501" frameX="-194" frameY="-407" frameWidth="900" frameHeight="900" />
+<SubTexture name="idle0004" x="387" y="0" width="585" height="510" frameX="-198" frameY="-398" frameWidth="900" frameHeight="900" />
+<SubTexture name="idle0005" x="387" y="0" width="585" height="510" frameX="-198" frameY="-398" frameWidth="900" frameHeight="900" />
+<SubTexture name="idle0006" x="387" y="0" width="585" height="510" frameX="-198" frameY="-398" frameWidth="900" frameHeight="900" />
+<SubTexture name="idle0007" x="387" y="0" width="585" height="510" frameX="-198" frameY="-398" frameWidth="900" frameHeight="900" />
+<SubTexture name="idle0008" x="387" y="0" width="585" height="510" frameX="-198" frameY="-398" frameWidth="900" frameHeight="900" />
+<SubTexture name="idle0009" x="387" y="0" width="585" height="510" frameX="-198" frameY="-398" frameWidth="900" frameHeight="900" />
+<SubTexture name="idle0010" x="387" y="0" width="585" height="510" frameX="-198" frameY="-398" frameWidth="900" frameHeight="900" />
+<SubTexture name="idle0011" x="387" y="0" width="585" height="510" frameX="-198" frameY="-398" frameWidth="900" frameHeight="900" />
+<SubTexture name="idle0012" x="387" y="0" width="585" height="510" frameX="-198" frameY="-398" frameWidth="900" frameHeight="900" />
+<SubTexture name="idle0013" x="387" y="0" width="585" height="510" frameX="-198" frameY="-398" frameWidth="900" frameHeight="900" />
+<SubTexture name="left0000" x="593" y="541" width="673" height="499" frameX="-108" frameY="-409" frameWidth="900" frameHeight="900" />
+<SubTexture name="left0001" x="1411" y="0" width="684" height="495" frameX="-97" frameY="-413" frameWidth="900" frameHeight="900" />
+<SubTexture name="left0002" x="0" y="1042" width="688" height="489" frameX="-93" frameY="-419" frameWidth="900" frameHeight="900" />
+<SubTexture name="left0003" x="0" y="1042" width="688" height="489" frameX="-93" frameY="-419" frameWidth="900" frameHeight="900" />
+<SubTexture name="left0004" x="0" y="1042" width="688" height="489" frameX="-93" frameY="-419" frameWidth="900" frameHeight="900" />
+<SubTexture name="left0005" x="0" y="1042" width="688" height="489" frameX="-93" frameY="-419" frameWidth="900" frameHeight="900" />
+<SubTexture name="right0000" x="688" y="1531" width="686" height="451" frameX="-136" frameY="-457" frameWidth="900" frameHeight="900" />
+<SubTexture name="right0001" x="0" y="1531" width="688" height="460" frameX="-147" frameY="-448" frameWidth="900" frameHeight="900" />
+<SubTexture name="right0002" x="1298" y="1042" width="692" height="475" frameX="-159" frameY="-433" frameWidth="900" frameHeight="900" />
+<SubTexture name="right0003" x="688" y="1531" width="686" height="451" frameX="-136" frameY="-457" frameWidth="900" frameHeight="900" />
+<SubTexture name="up0000" x="1411" y="495" width="469" height="494" frameX="-224" frameY="-414" frameWidth="900" frameHeight="900" />
+<SubTexture name="up0001" x="972" y="0" width="439" height="507" frameX="-239" frameY="-401" frameWidth="900" frameHeight="900" />
+<SubTexture name="up0002" x="0" y="0" width="387" height="541" frameX="-265" frameY="-367" frameWidth="900" frameHeight="900" />
+<SubTexture name="down0000" x="1374" y="1531" width="689" height="407" frameX="-119" frameY="-501" frameWidth="900" frameHeight="900" />
+<SubTexture name="down0001" x="2095" y="0" width="721" height="395" frameX="-103" frameY="-513" frameWidth="900" frameHeight="900" />
+<SubTexture name="down0002" x="0" y="1991" width="759" height="374" frameX="-84" frameY="-534" frameWidth="900" frameHeight="900" />
+</TextureAtlas>

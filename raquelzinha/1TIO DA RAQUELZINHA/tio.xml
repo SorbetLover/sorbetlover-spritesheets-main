@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tio.png">
+<SubTexture name="tio idle0000" x="0" y="0" width="211" height="872" frameX="-362" frameY="-10" frameWidth="900" frameHeight="900" />
+<SubTexture name="tio idle0001" x="673" y="0" width="261" height="825" frameX="-337" frameY="-58" frameWidth="900" frameHeight="900" />
+<SubTexture name="tio idle0002" x="673" y="0" width="261" height="825" frameX="-337" frameY="-58" frameWidth="900" frameHeight="900" />
+<SubTexture name="tio idle0003" x="436" y="0" width="237" height="845" frameX="-349" frameY="-38" frameWidth="900" frameHeight="900" />
+<SubTexture name="tio idle0004" x="436" y="0" width="237" height="845" frameX="-349" frameY="-38" frameWidth="900" frameHeight="900" />
+<SubTexture name="tio idle0005" x="211" y="0" width="225" height="862" frameX="-355" frameY="-21" frameWidth="900" frameHeight="900" />
+<SubTexture name="tio idle0006" x="211" y="0" width="225" height="862" frameX="-355" frameY="-21" frameWidth="900" frameHeight="900" />
+<SubTexture name="tio idle0007" x="0" y="0" width="211" height="872" frameX="-362" frameY="-10" frameWidth="900" frameHeight="900" />
+<SubTexture name="tio idle0008" x="0" y="0" width="211" height="872" frameX="-362" frameY="-10" frameWidth="900" frameHeight="900" />
+<SubTexture name="tio idle0009" x="0" y="0" width="211" height="872" frameX="-362" frameY="-10" frameWidth="900" frameHeight="900" />
+<SubTexture name="tio idle0010" x="0" y="0" width="211" height="872" frameX="-362" frameY="-10" frameWidth="900" frameHeight="900" />
+<SubTexture name="tio idle0011" x="0" y="0" width="211" height="872" frameX="-362" frameY="-10" frameWidth="900" frameHeight="900" />
+<SubTexture name="tio idle0012" x="0" y="0" width="211" height="872" frameX="-362" frameY="-10" frameWidth="900" frameHeight="900" />
+<SubTexture name="tio idle0013" x="0" y="0" width="211" height="872" frameX="-362" frameY="-10" frameWidth="900" frameHeight="900" />
+<SubTexture name="tio idle0014" x="0" y="0" width="211" height="872" frameX="-362" frameY="-10" frameWidth="900" frameHeight="900" />
+<SubTexture name="tio idle0015" x="0" y="0" width="211" height="872" frameX="-362" frameY="-10" frameWidth="900" frameHeight="900" />
+<SubTexture name="tio idle0016" x="0" y="0" width="211" height="872" frameX="-362" frameY="-10" frameWidth="900" frameHeight="900" />
+<SubTexture name="tio idle0017" x="0" y="0" width="211" height="872" frameX="-362" frameY="-10" frameWidth="900" frameHeight="900" />
+<SubTexture name="tio idle0018" x="0" y="0" width="211" height="872" frameX="-362" frameY="-10" frameWidth="900" frameHeight="900" />
+<SubTexture name="tio idle0019" x="0" y="0" width="211" height="872" frameX="-362" frameY="-10" frameWidth="900" frameHeight="900" />
+<SubTexture name="tio idle0020" x="0" y="0" width="211" height="872" frameX="-362" frameY="-10" frameWidth="900" frameHeight="900" />
+</TextureAtlas>

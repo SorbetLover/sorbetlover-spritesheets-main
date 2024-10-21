@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gabriel.png">
+<SubTexture name="gabriel idle0000" x="0" y="0" width="279" height="529" frameX="-296" frameY="-352" frameWidth="900" frameHeight="900" />
+<SubTexture name="gabriel idle0001" x="576" y="0" width="319" height="497" frameX="-276" frameY="-385" frameWidth="900" frameHeight="900" />
+<SubTexture name="gabriel idle0002" x="576" y="0" width="319" height="497" frameX="-276" frameY="-385" frameWidth="900" frameHeight="900" />
+<SubTexture name="gabriel idle0003" x="576" y="0" width="319" height="497" frameX="-276" frameY="-385" frameWidth="900" frameHeight="900" />
+<SubTexture name="gabriel idle0004" x="279" y="0" width="297" height="512" frameX="-287" frameY="-370" frameWidth="900" frameHeight="900" />
+<SubTexture name="gabriel idle0005" x="0" y="0" width="279" height="529" frameX="-296" frameY="-352" frameWidth="900" frameHeight="900" />
+<SubTexture name="gabriel idle0006" x="0" y="0" width="279" height="529" frameX="-296" frameY="-352" frameWidth="900" frameHeight="900" />
+<SubTexture name="gabriel idle0007" x="0" y="0" width="279" height="529" frameX="-296" frameY="-352" frameWidth="900" frameHeight="900" />
+<SubTexture name="gabriel idle0008" x="0" y="0" width="279" height="529" frameX="-296" frameY="-352" frameWidth="900" frameHeight="900" />
+<SubTexture name="gabriel idle0009" x="0" y="0" width="279" height="529" frameX="-296" frameY="-352" frameWidth="900" frameHeight="900" />
+<SubTexture name="gabriel idle0010" x="0" y="0" width="279" height="529" frameX="-296" frameY="-352" frameWidth="900" frameHeight="900" />
+<SubTexture name="gabriel idle0011" x="0" y="0" width="279" height="529" frameX="-296" frameY="-352" frameWidth="900" frameHeight="900" />
+</TextureAtlas>
